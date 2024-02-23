@@ -106,11 +106,11 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 
 ## COST FUNCTION USING GRADIENT DESCENT:
 
-(https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/c56e48e6-6a08-4a4c-8c1b-377ef1040d0c)
+(![image](https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/c56e48e6-6a08-4a4c-8c1b-377ef1040d0c)
 
 ## LINEAR REGRESSION USING PROFIT PREDICTION:
 
-(https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/37cc7f35-0142-4089-8d5b-61da5ba98ee2)
+(![image](https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/37cc7f35-0142-4089-8d5b-61da5ba98ee2)
 
 ## PROFIT PREDICTION FOR A POPULATION OF 35000:
 
