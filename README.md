@@ -94,31 +94,31 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 
 ## Profit prediction:
 
-![linear regression using gradient descent](![image](https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/5f44d06e-b97f-4970-8acf-3bd3de2ad21c)
+(![image](https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/5f44d06e-b97f-4970-8acf-3bd3de2ad21c)
 
 ## Function:
 
-![img](![image](https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/96f9649a-f23d-47d4-9a57-befb287933a5)
+(![image](https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/96f9649a-f23d-47d4-9a57-befb287933a5)
 
 ## GRADIENT DESCENT:
 
-![img](![image](https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/31f7965f-0393-4201-87ae-878eb96c96ac)
+(![image](https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/31f7965f-0393-4201-87ae-878eb96c96ac)
 
 ## COST FUNCTION USING GRADIENT DESCENT:
 
-![img](![image](https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/c56e48e6-6a08-4a4c-8c1b-377ef1040d0c)
+(https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/c56e48e6-6a08-4a4c-8c1b-377ef1040d0c)
 
 ## LINEAR REGRESSION USING PROFIT PREDICTION:
 
-![img](![image](https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/37cc7f35-0142-4089-8d5b-61da5ba98ee2)
+(https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/37cc7f35-0142-4089-8d5b-61da5ba98ee2)
 
 ## PROFIT PREDICTION FOR A POPULATION OF 35000:
 
-![img](![image](https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/b7ad78d8-3691-42b0-a718-4553b957ad4a)
+![image](https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/b7ad78d8-3691-42b0-a718-4553b957ad4a)
 
 ## PROFIT PREDICTION FOR A POPULATION OF 70000:
 
-![img](![image](https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/de48e8d6-64b5-438b-912e-636fd4593cfa)
+![image](https://github.com/Girithickrohan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/138849207/de48e8d6-64b5-438b-912e-636fd4593cfa)
 
 
 ## Result:
